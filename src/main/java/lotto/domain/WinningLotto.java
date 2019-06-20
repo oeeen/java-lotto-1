@@ -1,6 +1,6 @@
 package lotto.domain;
 
-import lotto.domain.generator.LottoManualGenerator;
+import lotto.generator.LottoManualGenerator;
 
 import java.util.List;
 import java.util.Objects;

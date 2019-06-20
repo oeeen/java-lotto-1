@@ -2,9 +2,9 @@ package lotto.controller;
 
 import lotto.domain.Lotto;
 import lotto.domain.Rank;
-import lotto.domain.dao.LottoDao;
-import lotto.domain.dao.ResultDao;
-import lotto.domain.dao.WinningLottoDao;
+import lotto.dao.LottoDao;
+import lotto.dao.ResultDao;
+import lotto.dao.WinningLottoDao;
 import spark.Request;
 import spark.Response;
 

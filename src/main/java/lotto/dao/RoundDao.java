@@ -1,4 +1,4 @@
-package lotto.domain.dao;
+package lotto.dao;
 
 import javax.sql.DataSource;
 import java.sql.Connection;

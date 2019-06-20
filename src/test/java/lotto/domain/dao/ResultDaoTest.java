@@ -1,7 +1,7 @@
-package lotto.domain.dao;
+package lotto.dao;
 
 import lotto.domain.Rank;
-import lotto.domain.dto.ResultDto;
+import lotto.dto.ResultDto;
 import lotto.domain.util.DBUtil;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

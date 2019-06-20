@@ -2,8 +2,8 @@ package lotto.controller;
 
 import lotto.domain.LottoMoney;
 import lotto.domain.Lottos;
-import lotto.domain.dao.LottoDao;
-import lotto.domain.dao.RoundDao;
+import lotto.dao.LottoDao;
+import lotto.dao.RoundDao;
 import spark.Request;
 import spark.Response;
 

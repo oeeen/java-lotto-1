@@ -1,4 +1,4 @@
-package lotto.domain.dao;
+package lotto.dao;
 
 import lotto.domain.util.DBUtil;
 import org.junit.jupiter.api.BeforeEach;
